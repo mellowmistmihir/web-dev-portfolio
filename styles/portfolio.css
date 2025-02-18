@@ -128,3 +128,34 @@ nav li a {
 .section-des{
     padding: 40px 0px;
 }
+/* resume styles */
+.resume-conteiner{
+  display: flex;
+  gap: 24px;
+}
+.ex-des , .ex-sub-title{
+  color: #757575;
+}
+.ex-sub-title{
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.resume hr{
+  margin: 30px;
+}
+.resume-download-cv{
+  margin-top: 50px;
+}
+.resume-column-title, .ex-title{
+color: #474747;
+}
+.resume-column-title{
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.ex-title{
+  font-size: 25px;
+  font-weight: bold;
+}
